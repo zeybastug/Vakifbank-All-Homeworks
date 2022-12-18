@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "CoreDataManager.getNotes():CoreDataManager.swift">
+      </ContextState>
+      <ContextState
+         contextName = "NotesViewController.viewWillAppear(_:):NotesViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "NewNoteView.pickerView(_:didSelectRow:inComponent:):NewNoteView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "ServiceOperations.dict">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
