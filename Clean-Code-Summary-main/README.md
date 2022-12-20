@@ -1,4 +1,4 @@
-# Clean-Code-Summary
+ Clean-Code-Summary
 
 Clean Code: A Handbook of Agile Software Craftsmanship" is a book written by Robert C. Martin that provides guidelines for writing high-quality, maintainable software. The main theme of the book is that writing clean code is important not only for the immediate development team, but also for future developers who may need to maintain and extend the code.
 
@@ -11,7 +11,7 @@ Tips for designing clean APIs (Application Programming Interfaces) and dealing w
 Best practices for working in a team, such as collaborating and communicating effectively.
 Overall, the goal of the book is to help developers write code that is easy to read, understand, and maintain, which ultimately leads to more efficient and effective software development.
 
-** Chapter 1: **
+# Chapter 1: 
 
 Chapter 1 of "Clean Code: A Handbook of Agile Software Craftsmanship" is titled "Clean Code" and introduces the concept of writing clean, maintainable code. In this chapter, the author, Robert C. Martin, discusses the importance of writing clean code and the benefits it brings.
 
@@ -23,7 +23,7 @@ Martin also emphasizes the importance of professionalism in software development
 
 Finally, the chapter introduces the idea that clean code is subjective, and that different people may have different definitions of what constitutes clean code. However, the book goes on to provide specific guidelines and techniques for writing clean code that can be applied universally.
 
-** Chapter 2: **
+# Chapter 2: 
 
 Chapter 2 of "Clean Code: A Handbook of Agile Software Craftsmanship" is titled "Meaningful Names" and discusses the importance of using clear, descriptive names for variables, functions, and other code elements. The chapter argues that using meaningful names helps make code easier to read and understand, and can also help prevent errors and misunderstandings.
 
@@ -35,7 +35,7 @@ Finally, the chapter discusses the use of "domain-specific language," which invo
 
 Overall, the main message of Chapter 2 is that using meaningful names is an important aspect of writing clean, maintainable code, and that taking the time to choose good names can pay off in the long run by making the code easier to understand and work with.
 
-** Chapter 3: **
+# Chapter 3: 
 
 Chapter 3 of "Clean Code: A Handbook of Agile Software Craftsmanship" is titled "Functions" and discusses the importance of writing clean, well-organized functions in software development. The chapter argues that functions are the fundamental building blocks of code, and that writing clear, concise functions can make code easier to understand and maintain.
 
@@ -50,7 +50,7 @@ Finally, the chapter discusses the importance of testing and debugging functions
 
 Overall, the main message of Chapter 3 is that writing clean, well-organized functions is an important aspect of writing clean code, and that taking the time to structure and test functions can pay off in the long run by making the code easier to understand and maintain.
 
-** Chapter 4: **
+# Chapter 4: 
 
 Chapter 4 of "Clean Code: A Handbook of Agile Software Craftsmanship" is titled "Comments" and discusses the role of comments in software development. The chapter argues that comments are an important tool for explaining code, but that they should be used judiciously and with care.
 
@@ -62,7 +62,7 @@ Finally, the chapter covers the use of automated documentation tools, which can 
 
 Overall, the main message of Chapter 4 is that comments can be a useful tool for explaining code, but that they should be used sparingly and with care, and that code should always be the primary source of information about how a program works.
 
-** Chapter 5: **
+# Chapter 5:  
 
 Chapter 5 of "Clean Code: A Handbook of Agile Software Craftsmanship" is titled "Formatting" and discusses the importance of proper formatting in software development. The chapter argues that good formatting can make code easier to read and understand, and can also help prevent errors and misunderstandings.
 
@@ -74,7 +74,7 @@ Finally, the chapter covers the use of comments in code, and advises against ove
 
 Overall, the main message of Chapter 5 is that good formatting is an important aspect of writing clean, maintainable code, and that taking the time to format code in a clear and consistent manner can pay off in the long run by making the code easier to read and understand.
 
-** Chapter on 6: **
+# Chapter on 6:  
 
  Chapter 6 of "Clean Code: A Handbook of Agile Software Craftsmanship" is titled "Objects and Data Structures" and discusses the importance of designing clean, well-organized objects and data structures in software development. The chapter argues that good object-oriented design can make code easier to understand and maintain, and can also help prevent errors and misunderstandings.
 
@@ -86,7 +86,7 @@ Finally, the chapter covers the use of design patterns, which are reusable solut
 
 Overall, the main message of Chapter 6 is that good object-oriented design and the use of appropriate data structures are important aspects of writing clean, maintainable code, and that taking the time to design code well can pay off in the long run by making the code easier to understand and maintain.
 
-** Chapter 7: ** 
+# Chapter 7: 
 
 Chapter 7 of "Clean Code: A Handbook of Agile Software Craftsmanship" is titled "Error Handling" and discusses the importance of handling errors correctly in software development. The chapter argues that good error handling is an essential part of writing clean, maintainable code, and can help prevent errors and improve the reliability of software.
 
@@ -98,7 +98,7 @@ Finally, the chapter discusses the importance of documenting and communicating e
 
 Overall, the main message of Chapter 7 is that good error handling is an important aspect of writing clean, maintainable code, and that taking the time to anticipate and handle errors can improve the reliability and usability of software.
 
-** Chapter 8: ** 
+# Chapter 8: 
 
 Chapter 8 of "Clean Code: A Handbook of Agile Software Craftsmanship" is titled "Boundaries" and discusses the importance of designing clean, well-defined boundaries in software development. The chapter argues that good boundaries can make code easier to understand and maintain, and can also help prevent errors and misunderstandings.
 
@@ -110,7 +110,7 @@ Finally, the chapter covers the importance of dealing with external dependencies
 
 Overall, the main message of Chapter 8 is that good boundary design is an important aspect of writing clean, maintainable code, and that taking the time to design clear, well-defined boundaries can improve the structure and reliability of software.
 
-** Chapter 9: ** 
+# Chapter 9:   
 
 Certainly! Chapter 9 of "Clean Code: A Handbook of Agile Software Craftsmanship" is titled "Unit Tests" and discusses the importance of writing clean, effective unit tests in software development. The chapter argues that good unit tests are an essential part of writing clean, maintainable code, and can help prevent errors and improve the reliability of software.
 
@@ -122,7 +122,7 @@ Finally, the chapter discusses the importance of maintaining and updating tests 
 
 Overall, the main message of Chapter 9 is that writing clean, effective unit tests is an important aspect of writing clean, maintainable code, and that taking the time to design and maintain good tests can improve the reliability and maintainability of software.
 
-** Chapter 10: ** 
+# Chapter 10:   
 
 Chapter 10 of "Clean Code: A Handbook of Agile Software Craftsmanship" is titled "Classes" and discusses the importance of designing clean, well-organized classes in software development. The chapter argues that good class design is an essential part of writing clean, maintainable code, and can help prevent errors and improve the reliability of software.
 
@@ -134,7 +134,7 @@ Finally, the chapter discusses the importance of testing and debugging classes, 
 
 Overall, the main message of Chapter 10 is that good class design is an important aspect of writing clean, maintainable code, and that taking the time to design clean, well-organized classes can improve the structure and reliability of software.
 
-** Chapter 11: ** 
+# Chapter 11:  
 
 Chapter 11 of "Clean Code: A Handbook of Agile Software Craftsmanship" is titled "Systems" and discusses the importance of designing clean, well-organized systems in software development. The chapter argues that good system design is an essential part of writing clean, maintainable code, and can help prevent errors and improve the reliability of software.
 
@@ -146,7 +146,7 @@ Finally, the chapter discusses the importance of testing and debugging systems, 
 
 Overall, the main message of Chapter 11 is that good system design is an important aspect of writing clean, maintainable code, and that taking the time to design clean, well-organized systems can improve the structure and reliability of software.
 
-** Chapter 12: **
+# Chapter 12:  
 
 "Clean Code" is a book by Robert C. Martin that provides guidelines for writing clean, readable, and maintainable code. Here is a summary of Chapter 12, "Error Handling":
 
@@ -166,7 +166,7 @@ Document errors: Make sure to document any error codes or messages that your cod
 
 By following these principles, you can improve the reliability and maintainability of your code, and make it easier to debug and fix errors when they do occur.
 
-** Chapter 13: **
+# Chapter 13:  
 
 Chapter 13 of "Clean Code" is titled "Boundaries". In this chapter, Robert C. Martin discusses the importance of designing your code to be flexible and maintainable. He recommends following a few key principles when working with external dependencies:
 
@@ -176,7 +176,7 @@ Isolate complex dependencies: If you have complex dependencies that are difficul
 Use thin adapters: When integrating with external dependencies, try to use thin adapters that simply translate between your code and the external dependency. This can make it easier to change your code without having to rewrite large portions of it.
 By following these principles, you can improve the flexibility and maintainability of your code, and make it easier to work with external dependencies.
 
-** Chapter 14: **
+# Chapter 14:  
 
 Chapter 14 of "Clean Code" is titled "Unit Tests". In this chapter, Robert C. Martin discusses the importance of unit testing in ensuring the quality and reliability of your code. He recommends following a few key principles when writing unit tests:
 
@@ -186,7 +186,7 @@ Make tests independent: Try to make your tests independent of each other, so tha
 Keep tests simple: Try to keep your tests simple and focused on testing a single aspect of your code. This can make it easier to understand and maintain your tests.
 By following these principles, you can improve the quality and reliability of your code, and make it easier to catch and fix errors when they occur.
 
-** Chapter 15: **
+# Chapter 15:  
 
 Chapter 15 of "Clean Code" is titled "Classes". In this chapter, Robert C. Martin discusses the importance of designing your classes to be clear, readable, and maintainable. He recommends following a few key principles when designing your classes:
 
@@ -196,7 +196,7 @@ Use appropriate visibility: Make sure to use the appropriate visibility (such as
 Follow SOLID principles: Consider following the SOLID principles of object-oriented design when designing your classes. These principles can help you create flexible and maintainable code.
 By following these principles, you can improve the readability and maintainability of your code, and make it easier to understand and modify.
 
-** Chapter 16: **
+# Chapter 16:  
 
 Chapter 16 of "Clean Code" is titled "Systems". In this chapter, Robert C. Martin discusses the importance of designing your software systems to be scalable, maintainable, and flexible. He recommends following a few key principles when designing your systems:
 
@@ -206,7 +206,7 @@ Use abstractions: Use abstractions (such as interfaces or abstract classes) to d
 Follow SOLID principles: Consider following the SOLID principles of object-oriented design when designing your systems. These principles can help you create flexible and maintainable code.
 By following these principles, you can improve the scalability and maintainability of your systems, and make them easier to modify and extend as your needs change.
 
-** Chapter 17: **
+# Chapter 17:  
 
 Chapter 17 of "Clean Code" is titled "Emergence". In this chapter, Robert C. Martin discusses the concept of emergence, which refers to the way that complex systems and patterns can arise from simple rules and interactions. He argues that good software design should allow for emergence, and recommends following a few key principles to encourage it:
 
